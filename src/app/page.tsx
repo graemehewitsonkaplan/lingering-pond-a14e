@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Hello from "./components/hello.tsx"; // Import your new component
+import Hello from "./components/hello"; // Import your new component
 
 export default function Home() {
   return (
