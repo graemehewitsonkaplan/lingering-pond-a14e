@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Hello() {
   return (
     <div>
       <h1>My Custom Next.js Page</h1>
